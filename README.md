@@ -7,13 +7,10 @@ To develop the Onspot Ticket Reservation System in Railway Station using Star UM
 # Problem Statement: Railway Management System
 
 The current manual and semi-automated processes for managing railway passenger ticketing and travel are inefficient, time-consuming, and prone to human error. Passengers face difficulties in booking tickets, 
-
 checking train availability, verifying seat status, and tracking journey updates. Additionally, railway staff struggle with managing reservations, cancellations, seat allotments, and handling large volumes of 
-
 passenger data.
 
 There is a need for an integrated Railway Management System that automates and streamlines the entire passenger journey—from ticket booking and seat allocation to boarding and travel tracking. The system should 
-
 support online and offline ticket reservations, real-time train status updates, passenger information management, and generate travel reports for both passengers and authorities.
 
 
