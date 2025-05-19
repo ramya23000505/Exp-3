@@ -61,7 +61,7 @@ support online and offline ticket reservations, real-time train status updates, 
 ![image](https://github.com/user-attachments/assets/ba1f5580-ea63-4162-8efc-fb6bd68eb38b)
 
 ## ACTIVITY DIAGRAM
-![image](https://github.com/user-attachments/assets/3ffc1430-994f-4c33-bbc9-a9c61a38101a)
+![image](https://github.com/user-attachments/assets/05280d34-4729-4727-88b4-6da1c0f06800)
 
 
 # RESULT:
